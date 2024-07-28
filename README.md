@@ -7,7 +7,7 @@
 <br />
 
 
-Hey there! 😄 My name is Shingirayi (Shingi) and I am a Full Stack Developer and I have been in the IT field for the past 5+ years. I have had experience in a variety of technologies and am currently reading and starting my research in personalised medicine and its potential applications. Feel free to visit [my site :).](https://simandebvu.co.zw/) Lets make the best thing they've ever seen.
+Hey there! 😄 My name is Shingirayi (Shingi) and I am a Full Stack Developer and I have been in the IT field for the past 5+ years. I have had experience in a variety of technologies and am currently reading and starting my research in personalised medicine and its potential applications. Feel free to visit [my site :).](https://shingy.xyz/) Lets make the best thing they've ever seen.
 
 I am also a fan of open source - I love that you get to learn so much through collaboration and it has shaped such paradigms as clean code and test driven development.
 
